@@ -1,5 +1,5 @@
 # type-even-less
-A followup to the first workshop (type-less) on how to type less and do more at the command line
+A followup to the first workshop (http://github.com/bitmask/type-less) on how to type less and do more at the command line
 
 November 3rd, 2016
 Helen Cook for Viking Thursdays 
